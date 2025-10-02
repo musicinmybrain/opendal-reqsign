@@ -25,7 +25,7 @@ description = "Signing API requests without effort."
 documentation = "https://docs.rs/reqsign"
 edition = "2021"
 license = "Apache-2.0"
-repository = "https://github.com/Xuanwo/reqsign"
+repository = "https://github.com/apache/opendal-reqsign"
 
 [workspace.dependencies]
 anyhow = "1"
